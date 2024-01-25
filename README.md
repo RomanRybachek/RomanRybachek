@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Patch analysis:
 [CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698) - vulnerability in ntoskrnl.exe (ntkrnlmp.exe).<br/>
 [CVE-2023-36900](https://github.com/RomanRybachek/CVE-2023-36900) - vulnerability in CLFS.sys.<br/>
