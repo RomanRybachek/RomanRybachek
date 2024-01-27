@@ -7,8 +7,8 @@
 [Copy_RVA](https://github.com/RomanRybachek/Copy_RVA) - plugin for coping RVA under cursor. <br/>
 [navigation_plugin](https://github.com/RomanRybachek/navigation_plugin) - helps to navigate among the large number of unexplored functions.<br/>
 ### Tools:
-[ioctl_helper](https://github.com/RomanRybachek/ioctl_helper) - GUI tool for sending IOCTL to windows drivers. 
-[windows_patch_comparison](https://github.com/RomanRybachek/windows_patch_comparison) - tool to compare windows patches.
+[ioctl_helper](https://github.com/RomanRybachek/ioctl_helper) - GUI tool for sending IOCTL to windows drivers. <br/>
+[windows_patch_comparison](https://github.com/RomanRybachek/windows_patch_comparison) - tool to compare windows patches. <br/>
 <!--
 **RomanRybachek/RomanRybachek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
